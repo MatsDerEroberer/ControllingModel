@@ -1,0 +1,24 @@
+.App {
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+
+.configurator {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 80vh;
+}
+
+.conf-menu {
+  margin-left: 2rem;
+  text-align: left;
+}
+
+.conf-menu p {
+  margin-top: 1.5rem;
+}
